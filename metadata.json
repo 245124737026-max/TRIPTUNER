@@ -1,0 +1,6 @@
+{
+  "name": "TripTuner – Intelligent Travel Planner",
+  "description": "Personalized day-wise travel itinerary builder with interactive route maps, real-time budget breakdown, weather forecasts, and trip customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
