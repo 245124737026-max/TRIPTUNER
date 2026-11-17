@@ -358,6 +358,7 @@ export default function App() {
                   durationDays={tripPlan.config.durationDays}
                   comfortTier={tripPlan.config.comfortTier}
                   onChangeTier={handleChangeComfortTier}
+                  destinationId={tripPlan.destination.id}
                 />
               </div>
             </div>
